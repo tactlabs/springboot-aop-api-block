@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/SpringBoot-AOP-API-block.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/SpringBoot-AOP-API-block)
+
 # Blocking-api-with-Springboot-AOP
 
 Simple demonstration of how Spring AOP can be used block even public methods of target classes.
